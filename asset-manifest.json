@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Gestures-YT-React-App/static/css/main.9a9f4115.chunk.css",
+    "main.js": "/Gestures-YT-React-App/static/js/main.de65817b.chunk.js",
+    "main.js.map": "/Gestures-YT-React-App/static/js/main.de65817b.chunk.js.map",
+    "runtime-main.js": "/Gestures-YT-React-App/static/js/runtime-main.827ab05b.js",
+    "runtime-main.js.map": "/Gestures-YT-React-App/static/js/runtime-main.827ab05b.js.map",
+    "static/css/2.726d2086.chunk.css": "/Gestures-YT-React-App/static/css/2.726d2086.chunk.css",
+    "static/js/2.63c33bd5.chunk.js": "/Gestures-YT-React-App/static/js/2.63c33bd5.chunk.js",
+    "static/js/2.63c33bd5.chunk.js.map": "/Gestures-YT-React-App/static/js/2.63c33bd5.chunk.js.map",
+    "index.html": "/Gestures-YT-React-App/index.html",
+    "precache-manifest.23550c5ad609d26cab1df45746a97bfd.js": "/Gestures-YT-React-App/precache-manifest.23550c5ad609d26cab1df45746a97bfd.js",
+    "service-worker.js": "/Gestures-YT-React-App/service-worker.js",
+    "static/css/2.726d2086.chunk.css.map": "/Gestures-YT-React-App/static/css/2.726d2086.chunk.css.map",
+    "static/css/main.9a9f4115.chunk.css.map": "/Gestures-YT-React-App/static/css/main.9a9f4115.chunk.css.map",
+    "static/js/2.63c33bd5.chunk.js.LICENSE.txt": "/Gestures-YT-React-App/static/js/2.63c33bd5.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Gestures-YT-React-App/static/media/outline-icons.ef60a4f6.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.827ab05b.js",
+    "static/css/2.726d2086.chunk.css",
+    "static/js/2.63c33bd5.chunk.js",
+    "static/css/main.9a9f4115.chunk.css",
+    "static/js/main.de65817b.chunk.js"
+  ]
+}
